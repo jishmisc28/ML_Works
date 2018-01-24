@@ -1,6 +1,6 @@
 # ML_Works
 
-#1. A neural network implemenatation of simple linear regression on TensorFlow.
+#1. A neural network implementation of simple linear regression on TensorFlow.
 ---
 #2. Discover the Nutrient Quotient of your food by just a simple search on the App! 
 ---
